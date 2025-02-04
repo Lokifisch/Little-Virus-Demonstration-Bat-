@@ -1,3 +1,0 @@
-Do
-msgbox "LOL"
-loop
